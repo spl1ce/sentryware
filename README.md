@@ -1,2 +1,2 @@
 # sentryware
-The ultime spyware for educational porpuses
+The ultime spyware for educational porpuses.
